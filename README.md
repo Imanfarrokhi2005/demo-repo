@@ -7,5 +7,3 @@ some description..!
 watch on YouTube.
 
 ### Feature branch
-
-made a feature branch
